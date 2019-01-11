@@ -80,3 +80,5 @@ scrapy抓取数据存储至本地mysql数据库
 <br>程序显示几家商店，从中继续选择某一家分析
 <br>生成词云<br>
 ![image](https://raw.githubusercontent.com/bsns/dianping/master/images/15.png)
+
+
